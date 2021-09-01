@@ -1,0 +1,9 @@
+.content.xBacon {
+    background-image: url('../../assets/x-bacon/BaconCopia2.png');
+    background-size: cover;
+    background-position: center center;
+}
+
+.content main section .vertical #text-vertical {
+    font-size: 7.4rem;
+}

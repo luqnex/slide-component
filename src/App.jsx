@@ -1,10 +1,10 @@
 import React from 'react'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
-import { XSalada } from './components/XSalada'
-import { SaoBurguer } from './components/SaoBurguer'
-import { XBacon } from './components/XBacon'
-import { Combo } from './components/Combo'
-import { Prove } from './components/Prove'
+import { XSalada } from './components/xSalada/XSalada'
+import { SaoBurguer } from './components/saoBuguer/SaoBurguer'
+import { XBacon } from './components/xBacon/XBacon'
+import { Combo } from './components/combo/Combo'
+import { Prove } from './components/prove/Prove'
 
 import './App.css'
 

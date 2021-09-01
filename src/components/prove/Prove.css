@@ -1,0 +1,9 @@
+.content.prove {
+    background-image: url('../../assets/prove/LumagBurger.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.content main section .vertical #text-vertical {
+    font-size: 7.4rem;
+}
